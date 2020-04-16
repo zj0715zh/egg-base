@@ -1,0 +1,2 @@
+# egg-base
+基于egg框架的node服务中台基础模板，接入了apollon配置中心和ejs引擎模板以及alinode性能监控平台
